@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="792" height="305" viewBox="0 0 792 305">
+<rect width="792" height="305" fill="#0c0c0c"/>
+<g font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="14.5" xml:space="preserve">
+<text x="5" y="21" fill="#cccccc">Creating an optimized production build...</text>
+<text x="5" y="38" fill="#cccccc">Browserslist: caniuse-lite is outdated. Please run:</text>
+<text x="5" y="55" fill="#cccccc">  npx update-browserslist-db@latest</text>
+<text x="5" y="72" fill="#cccccc">  Why you should do it regularly: https://github.com/browserslist/update-db#readme</text>
+<text x="5" y="89" fill="#ffdf00">One of your dependencies, babel-preset-react-app, is importing the</text>
+<text x="5" y="106" fill="#ffdf00">"@babel/plugin-proposal-private-property-in-object" package without</text>
+<text x="5" y="123" fill="#ffdf00">declaring it in its dependencies. This is currently working because</text>
+<text x="5" y="140" fill="#ffdf00">"@babel/plugin-proposal-private-property-in-object" is already in your</text>
+<text x="5" y="157" fill="#ffdf00">node_modules folder for unrelated reasons, but it may break at any time.</text>
+<text x="5" y="174" fill="#ffdf00"></text>
+<text x="5" y="191" fill="#ffdf00">babel-preset-react-app is part of the create-react-app project, which</text>
+<text x="5" y="208" fill="#ffdf00">is not maintained anymore. It is thus unlikely that this bug will</text>
+<text x="5" y="225" fill="#ffdf00">ever be fixed. Add "@babel/plugin-proposal-private-property-in-object" to</text>
+<text x="5" y="242" fill="#ffdf00">your devDependencies to work around this error. This will make this message</text>
+<text x="5" y="259" fill="#ffdf00">go away.</text>
+<rect x="4" y="278" width="2" height="17" fill="#cccccc"/>
+</g></svg>
